@@ -1,0 +1,12 @@
+# Függőségek
+node_modules/
+
+# Titkos adatok
+.env
+
+# Logok
+*.log
+
+# Playwright kimenetek (később)
+test-results/
+playwright-report/
